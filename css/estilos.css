@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(1, 111, 148);
+    background-image: url(../Imagenes/dbe1ee669a854af30ba669feb58f2a25.gif);
+    color: rgb(255, 255, 255);
+    background-size: 50%;
+}
